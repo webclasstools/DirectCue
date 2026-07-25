@@ -1,7 +1,7 @@
 # DirectCue
 
-> [!IMPORTANT]
-> Please avoid using DirectCue on incognito browsers and guest browsers. **Doing this on thes types of browsers will not save your choreographs properly**, and will not save your choreographs properly the next time you view the page again.
+> [!CAUTION]
+> Please avoid using DirectCue on incognito browsers and guest browsers. **Using DirectCue on thes types of browsers will not save your choreographs at all**, and you will not see your saved choreographs the next time you view the page again.
 
 ## About
 

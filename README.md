@@ -18,7 +18,7 @@ DirectCue is a static website, tailored specifically for timing and making chore
 
 **Q: Where can i find DirectCue?**
 
-**A:** DirectCue is located in our Github Pages, which can be found [here](https://webclasstools.github.io/directcue)
+**A:** DirectCue is located in our Github Pages, which can be found [here](https://webclasstools.github.io/directcue).
 
 ## Features
 - Real time editing of choreographies

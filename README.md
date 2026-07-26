@@ -9,12 +9,15 @@ DirectCue is a static website, tailored specifically for timing and making chore
 
 ## Frequently Asked Questions
 **Q: Is this safe to use?**
+
 **A:** Yes! Since this is a static website and the only backend is the database, it doesn't get any other additional information about you and your data. Our privacy document can be seen [here](docs/legal/PRIVACY.md). Any further inquiries should be directed in contacting schtools.d808c7@gmail.com.
 
 **Q: How can I use DirectCue?**
+
 **A:** All our documentation about the app can be seen in [docs](docs). If you are familiar with the LiveEdit / CuePilot setup, then this layout should look familiar to you.
 
 **Q: Where can i find DirectCue?**
+
 **A:** DirectCue is located in our Github Pages, which can be found [here](https://webclasstools.github.io/directcue)
 
 ## Features

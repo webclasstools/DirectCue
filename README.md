@@ -14,7 +14,7 @@ DirectCue is a static website, tailored specifically for timing and making chore
 **Q: How can I use DirectCue?**
 **A:** All our documentation about the app can be seen in [docs](docs). If you are familiar with the LiveEdit / CuePilot setup, then this layout should look familiar to you.
 
-**Q: Where can i find DirectCue??**
+**Q: Where can i find DirectCue?**
 **A:** DirectCue is located in our Github Pages, which can be found [here](https://webclasstools.github.io/directcue)
 
 ## Features
